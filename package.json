@@ -1,0 +1,29 @@
+{
+  "name": "owd-plugin-quasar",
+  "version": "0.0.1",
+  "keywords": [
+    "owd",
+    "open web desktop",
+    "plugin",
+    "quasar"
+  ],
+  "homepage": "https://github.com/owdproject/owd-plugin-quasar#readme",
+  "bugs": {
+    "url": "https://github.com/owdproject/owd-plugin-quasar/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owdproject/owd-plugin-quasar.git"
+  },
+  "author": {
+    "name": "hacklover",
+    "url": "https://github.com/hacklover"
+  },
+  "dependencies": {
+    "quasar": "^2.3.3",
+    "@quasar/extras": "^1.12.1"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.2"
+  }
+}
